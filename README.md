@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ Rails app with a Home page and an About page.
+ 
+ [![Bolt_Network.png](https://s7.postimg.org/tsnlon1fv/Bolt_Network.png)](https://postimg.org/image/w9zcvwlc7/)
+ 
+ 
+ [![Bolt_Network_1.png](https://s7.postimg.org/8izzdydh7/Bolt_Network_1.png)](https://postimg.org/image/w9zcw2do7/)
+ 
